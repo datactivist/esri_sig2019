@@ -2,7 +2,7 @@
 title: "La mise en oeuvre de l'open data"
 subtitle: "Quelques retours d'expérience"
 author: "Magalie Dartus, Datactivist"
-date: "esri-sig2019, `r Sys.Date()`"
+date: "SIG 2019 - 17/10/2019"
 output:
   SlidesDatactivist::moon_reader:
     css: [default, datactivist, datactivist-fonts]
@@ -12,8 +12,8 @@ output:
       highlightLines: true
       countIncrementalSlides: false
 params:
-  event: esri_sig2019
   slug: esri_sig2019
+  event: ESRI - SIG 2019
 ---
 
 layout: true
