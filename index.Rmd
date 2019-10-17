@@ -1,5 +1,5 @@
 ---
-title: "La mise en oeuvre de l'open data"
+title: "La mise en œuvre de l'open data"
 subtitle: "Quelques retours d'expérience"
 author: "Magalie Dartus, Datactivist"
 date: "SIG 2019 - 17/10/2019"
